@@ -16,6 +16,8 @@ class Author
       post.author = self
     end
     
+    
+    
 end
 
 
