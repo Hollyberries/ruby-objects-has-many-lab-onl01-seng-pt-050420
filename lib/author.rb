@@ -1,6 +1,6 @@
 class Author
   
-  def initialized
+  def initialized(name)
     @name = name
   end
   
